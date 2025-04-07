@@ -2,7 +2,7 @@
 
 **Last-Mile Vision Care, Powered by AI**
 
-Developed by [Spectrum Lab](http://spectrum.ee.iisc.ac.in/), Department of Electrical Engineering, Indian Institute of Science, Bengaluru.
+Developed by [Spectrum Lab](https://sites.google.com/view/spectrumlabeeiisc/spectrum-lab), Department of Electrical Engineering, Indian Institute of Science, Bengaluru.
 
 [![Dataset Paper](https://img.shields.io/badge/Dataset%20Paper-Nature%20Sci%20Data-blue?style=flat-square)](https://www.nature.com/articles/s41597-023-01943-4)
 [![AI for Eyecare Workshop](https://img.shields.io/badge/AI%20for%20Eyecare-Workshop%20Info-green?style=flat-square)](https://chaksu.ai/ai_for_eyecare.html)
@@ -45,24 +45,6 @@ These capabilities are intended to be integrated into a unified platform to enha
 * **January 17, 2025**: A One-Day Symposium on Artificial Intelligence for Eyecare held, supported by SPARC, Ministry of Education, Govt. of India and Kotak IISc AI-ML Centre. [Registration Link](https://forms.office.com/r/jDJJ9NuFUB).
 * **January 14, 2025**: The new ChákṣuAI project website was launched!
 * **November 25, 2024**: ChákṣuAI project received funding from the Kotak IISc AI-ML Centre (KIAC) to further develop deep technology solutions for public good.
-
----
-
-## Getting Started
-
-*(Instructions on how to set up, install, and run the project code will be added here.)*
-
----
-
-## Contributing
-
-*(Details on how to contribute to the ChákṣuAI project will be provided here. Since it's aimed to be open-source, contribution guidelines are important.)*
-
----
-
-## License
-
-*(Information about the project's open-source license will be specified here.)*
 
 ---
 
